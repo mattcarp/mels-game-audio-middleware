@@ -1,0 +1,5 @@
+# Game Audio Middleware Landscape 2025
+
+**FMOD and Wwise continue their market dominance** while the audio middleware ecosystem expands with compelling alternatives for specialized use cases. Both leading solutions have dramatically improved accessibility with generous indie licensing, though they maintain distinct philosophical differences that shape developer experience and project suitability.
+
+The audio middleware market has effectively crystallized into a **two-platform duopoly** for professional game development. Industry research confirms that "almost all AAA game studios use audio middleware," with FMOD and Wwise capturing virtually the entire professional market. However, 2024-2025 has seen significant diversification in alternative solutions, from open-source engines to platform-specific implementations, creating more choice for developers than ever before.
