@@ -136,3 +136,46 @@ Then your third.
 Soon, you'll lose count.
 
 Welcome to game audio! 🎮🎵
+
+
+---
+
+## 🚀 BONUS: 10-Minute ElevenLabs SFX Speed Run
+
+### The Fastest Path to Professional Game Audio
+
+**You don't even need FMOD for this!**
+
+1. **Sign Up (2 min)**
+   - Go to elevenlabs.io/sound-effects
+   - Create free account
+   - You get 10,000 credits instantly!
+
+2. **Generate Your First Game SFX (3 min)**
+   - Type: "footsteps on wooden floor steady rhythm"
+   - Click Generate (creates 4 variations!)
+   - Download the best one as 48kHz WAV
+
+3. **Build a Quick Audio Pack (5 min)**
+   Generate these essentials:
+   - "coin collect sparkle bright"
+   - "menu button hover soft beep"
+   - "explosion distant muffled bass"
+   - "ambient wind desert lonely loop"
+
+**Boom! You just created $400 worth of custom SFX in 10 minutes!**
+
+### Why This Matters for Malta 🇲🇹
+- Evolution Gaming uses similar AI tools
+- Betsson Group looking for audio innovation
+- Your portfolio now has custom, unique sounds
+- No copyright worries - you own these!
+
+### Tomorrow's Challenge
+- Generate 10 sounds for a simple mobile game
+- Import them into FMOD
+- Create dynamic variations
+- Post on LinkedIn: "Created custom game audio with AI!"
+
+**Remember:** Paradox Interactive (huge game studio) uses ElevenLabs.
+If it's good enough for Stellaris, it's good enough for your portfolio!

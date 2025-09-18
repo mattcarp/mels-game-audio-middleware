@@ -44,6 +44,31 @@ considering I have audio engineering skills but limited sound libraries."
 - Consider game audio requirements (looping, file size)"
 ```
 
+#### For ElevenLabs Sound Effects (Game-Optimized)
+```
+// Environment & Ambience
+"Mediterranean coastal ambience morning birds waves 20 seconds seamless loop"
+"Dark dungeon dripping water echo reverb atmospheric"
+"Cyberpunk city street rain neon buzz traffic distant"
+
+// Action & Combat
+"Sword unsheathing metal ring sharp high quality"
+"Magic spell cast sparkle whoosh ascending pitch"
+"Footsteps on gravel walking rhythm steady loop"
+
+// UI & Feedback
+"Menu button click soft digital modern minimal"
+"Level up fanfare bright magical ascending"
+"Error buzzer harsh electronic short"
+
+// Pro Tips for ElevenLabs:
+- Use audio terminology: "braam", "whoosh", "stinger"
+- Specify duration if needed (max 22-30 seconds)
+- Add "seamless loop" for ambient sounds
+- Include texture descriptors: "crisp", "muffled", "metallic"
+- Generate 4 variations per prompt on website (only 200 credits!)
+```
+
 ### 💼 Career Development Prompts
 
 #### For Portfolio Descriptions

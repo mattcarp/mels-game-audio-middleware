@@ -58,14 +58,25 @@ Welcome to your personalized journey into game audio! This guide combines your a
 **Goal:** Accelerate asset creation with AI
 
 1. **AI Sound Design Tools**
-   - **Stable Audio** - Generate sound effects from text descriptions
-   - **AudioGen** - Create ambient soundscapes
+   - **ElevenLabs Sound Effects** - Professional game SFX generation (PRIORITY!)
+     * Free tier: 10,000 credits/month for learning
+     * $5/month gets you commercial licensing
+     * 22-30 second generation, seamless looping
+     * Used by Paradox Interactive (Stellaris, Crusader Kings)
+     * Generate everything: explosions, footsteps, UI sounds, ambiences
+   - **Stable Audio** - Better for music/longer compositions
+   - **AudioGen (Meta)** - Open source but limited to 5 seconds
    - **AIVA/Soundraw** - Adaptive music generation
-   - **ElevenLabs** - Voice acting placeholders
+   - **ElevenLabs Voice** - AI voice acting for NPCs
 
 2. **Practical AI Workflow Project**
    ```
    Project: "Melissa's Mystical Malta"
+   NEW: Start with ElevenLabs SFX:
+   - Generate "Mediterranean waves crashing on limestone cliffs"
+   - Create "Maltese church bells echoing through narrow streets"
+   - Build complete ambience in 10 minutes vs 10 hours traditional
+   
    - Generate Mediterranean ambiences using AI
    - Create fantasy creature sounds (AI-generated + your processing)
    - Use AI for quick prototyping, then refine with your audio skills
@@ -128,7 +139,12 @@ Welcome to your personalized journey into game audio! This guide combines your a
 - Master compression and optimization
 - Create lightweight, impactful audio systems
 - Build casino/iGaming audio demos (huge in Malta)
-- AI tool: Generate slot machine audio variations
+- AI tool: Use ElevenLabs to generate hundreds of slot machine variations:
+  * "Casino slot machine spinning reel mechanical"
+  * "Coins dropping into metal tray jackpot"
+  * "Digital beep success ascending pitch"
+  * Perfect for Malta's massive iGaming industry!
+- Join ElevenLabs Grants Program (33M credits free for startups!)
 
 #### Option B: Indie Game Polish
 - Focus on emotional, narrative audio
